@@ -7,4 +7,5 @@ console.log("+".repeat(40))
 console.log(elem.innerText)
 console.log("+".repeat(40))
 console.log(elem.textContent)
+console.log(elem.textContent)
 
